@@ -1,0 +1,14 @@
+.head{
+  width: 100%;
+  margin:0px;
+
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    border: 3px 3px dimgrey dotted;
+    margin-top:30px;
+    border-radius: 60px;
+}
